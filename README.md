@@ -1,0 +1,1 @@
+my solution : https://github.com/mrobeidat/linear-regression 
