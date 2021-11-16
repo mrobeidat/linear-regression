@@ -1,1 +1,1 @@
-my solution : [https://github.com/mrobeidat/linear-regression ](https://github.com/mrobeidat/linear-regression/blob/main/linear-regression.ipynb)
+my solution : [linear-regression ](https://github.com/mrobeidat/linear-regression/blob/main/linear-regression.ipynb)
